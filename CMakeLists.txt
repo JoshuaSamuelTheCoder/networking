@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(cv_lab)
+find_package(Boost REQUIRED	COMPONENTS system thread)
+add_executable(cv_lab Server.cpp)
+target_link_libraries(cv_lab $(Boost_LIBRARIES))

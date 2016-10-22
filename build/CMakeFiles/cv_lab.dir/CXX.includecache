@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/option16/Documents/CV2016/Week8/lab/Server.cpp
+boost/lexical_cast.hpp
+-
+boost/asio.hpp
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cv_lab.dir/Server.cpp.o  -o cv_lab -rdynamic $(Boost_LIBRARIES) 
